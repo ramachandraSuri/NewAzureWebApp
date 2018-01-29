@@ -1,0 +1,2 @@
+# NewAzureWebApp
+WebApp for staging
